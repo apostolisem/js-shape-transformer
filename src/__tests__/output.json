@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "type": "rectangle",
+    "width": 7,
+    "height": 3,
+    "x": -20,
+    "y": 40
+  },
+  {
+    "id": 2,
+    "type": "rectangle",
+    "width": 7,
+    "height": 5,
+    "x": 0,
+    "y": 60
+  },
+  {
+    "id": 5,
+    "type": "circle",
+    "radius": 4,
+    "x": 0,
+    "y": 60
+  },
+  {
+    "id": 6,
+    "type": "circle",
+    "radius": 3,
+    "x": -10,
+    "y": 50
+  }
+]

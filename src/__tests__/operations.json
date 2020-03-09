@@ -1,0 +1,35 @@
+[
+  {
+    "filter": "area",
+    "operator": "lt",
+    "value": 450
+  },
+  {
+    "transform": "scale",
+    "factor": 1.2
+  },
+  {
+    "filter": "circumference",
+    "operator": "in",
+    "value": [39, 300]
+  },
+  {
+    "transform": "move",
+    "x": -30,
+    "y": 30
+  },
+  {
+    "transform": "scale",
+    "factor": 0.3
+  },
+  {
+    "filter": "circumference",
+    "operator": "gt",
+    "value": 18
+  },
+  {
+    "filter": "area",
+    "operator": "lt",
+    "value": 55
+  }
+]
